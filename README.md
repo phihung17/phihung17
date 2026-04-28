@@ -83,6 +83,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+### 🤖 **AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PhoBERT](https://img.shields.io/badge/PhoBERT-0F172A?style=for-the-badge&logoColor=white)
+![SSD%20MobileNet](https://img.shields.io/badge/SSD_MobileNet-1E40AF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging_Face-257bd6?style=for-the-badge&logo=huggingface&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-257bd6?style=for-the-badge&logo=kaggle&logoColor=white)
+
 ### 🛠️ **Development Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
