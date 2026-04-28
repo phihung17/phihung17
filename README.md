@@ -34,6 +34,10 @@
 
 ## 🌐 **CONNECT WITH ME**
 
+### 📄 **Curriculum Vitae (CV)**
+
+[![View CV](https://img.shields.io/badge/View_CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1X_61Ex7w5s3yRpF3ixM7L_wXeQbJ6HeJ/view?usp=sharing)
+
 ### 📞 **Professional Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phihung171903/)
