@@ -34,9 +34,10 @@
 
 ## 🌐 **CONNECT WITH ME**
 
-### 📄 **Curriculum Vitae (CV)**
+### 📄 **Curriculum Vitae (CV) and Portfolio**
 
-[![View CV](https://img.shields.io/badge/View_CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1X_61Ex7w5s3yRpF3ixM7L_wXeQbJ6HeJ/view?usp=sharing)
+[![View CV](https://img.shields.io/badge/View_CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1xJ_Uqwc5HYttjU_7ciFzwHMi5dR2s0Ou/view?usp=sharing)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-3d4f17?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://portfolio.dhph.me/)
 
 ### 📞 **Professional Contact**
 
